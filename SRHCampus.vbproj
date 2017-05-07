@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{913104DA-779A-4C44-B923-D90E695B027D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SRHCampus</RootNamespace>
+    <AssemblyName>SRHCampus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SRHCampus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SRHCampus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AccountInformation.aspx" />
+    <Content Include="Book.aspx" />
+    <Content Include="css\animate.min.css" />
+    <Content Include="css\animations.css" />
+    <Content Include="css\blank.gif.html" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\fancyBox.css" />
+    <Content Include="css\fancybox_loading%402x.gif.html" />
+    <Content Include="css\fancybox_loading.gif.html" />
+    <Content Include="css\fancybox_overlay.png" />
+    <Content Include="css\font-awesome-animation.min.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\icofont.css" />
+    <Content Include="css\images\ui-icons_444444_256x240.png.html" />
+    <Content Include="css\images\ui-icons_555555_256x240.png.html" />
+    <Content Include="css\images\ui-icons_777620_256x240.png.html" />
+    <Content Include="css\images\ui-icons_777777_256x240.png.html" />
+    <Content Include="css\images\ui-icons_cc0000_256x240.png.html" />
+    <Content Include="css\images\ui-icons_ffffff_256x240.png.html" />
+    <Content Include="css\isotop.css" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\material-design-iconic-font.css" />
+    <Content Include="css\owl.css" />
+    <Content Include="css\owl.video.play.png.html" />
+    <Content Include="css\responsive.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Explore.aspx" />
+    <Content Include="FindBuddy.aspx" />
+    <Content Include="fonts\fontawesome-webfont-v=4.7.0.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\icofont-v=1.0.0-beta.svg" />
+    <Content Include="images\about\3.jpg" />
+    <Content Include="images\apple-icon.png" />
+    <Content Include="images\bg\1.jpg" />
+    <Content Include="images\bg\2.jpg" />
+    <Content Include="images\bg\3.jpg" />
+    <Content Include="images\blog\1.jpg" />
+    <Content Include="images\blog\2.jpg" />
+    <Content Include="images\blog\3.jpg" />
+    <Content Include="images\blog\sm1.jpg" />
+    <Content Include="images\blog\sm2.jpg" />
+    <Content Include="images\blog\sm3.jpg" />
+    <Content Include="images\courses\1.jpg" />
+    <Content Include="images\courses\2.jpg" />
+    <Content Include="images\courses\3.jpg" />
+    <Content Include="images\courses\comment-1.jpg" />
+    <Content Include="images\courses\comment-2.jpg" />
+    <Content Include="images\courses\comment-3.jpg" />
+    <Content Include="images\fancybox\fancybox_sprite.png" />
+    <Content Include="images\faq.png" />
+    <Content Include="images\favicon.png" />
+    <Content Include="images\footer-logo.png" />
+    <Content Include="images\footer.jpg" />
+    <Content Include="images\gallery\1.jpg" />
+    <Content Include="images\gallery\2.jpg" />
+    <Content Include="images\gallery\3.jpg" />
+    <Content Include="images\gallery\4.jpg" />
+    <Content Include="images\gallery\5.jpg" />
+    <Content Include="images\gallery\6.jpg" />
+    <Content Include="images\gallery\7.jpg" />
+    <Content Include="images\gallery\8.jpg" />
+    <Content Include="images\logo-2.png" />
+    <Content Include="images\man.png" />
+    <Content Include="images\newsletter.jpg" />
+    <Content Include="images\preloader.gif" />
+    <Content Include="images\slider\1.jpg" />
+    <Content Include="images\slider\2.jpg" />
+    <Content Include="images\slider\3.jpg" />
+    <Content Include="images\srhLogo.png" />
+    <Content Include="images\students.png" />
+    <Content Include="images\teachers\1.jpg" />
+    <Content Include="images\teachers\2.jpg" />
+    <Content Include="images\teachers\3.jpg" />
+    <Content Include="images\teachers\4.jpg" />
+    <Content Include="images\teachers\5.jpg" />
+    <Content Include="images\teachers\6.jpg" />
+    <Content Include="images\teachers\7.jpg" />
+    <Content Include="images\teachers\8.jpg" />
+    <Content Include="includes\contact.php.html" />
+    <Content Include="js\bootstrap-dropdownhover.min.js" />
+    <Content Include="js\bootstrap-slider.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\classie.js" />
+    <Content Include="js\css3-animate-it.js" />
+    <Content Include="js\isotope.js" />
+    <Content Include="js\jquery-scrolltofixed-min.js" />
+    <Content Include="js\jquery-ui.js" />
+    <Content Include="js\jquery.googlemap.js" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\jquery.magnific-popup.min.js" />
+    <Content Include="js\jquery.masonry.min.js" />
+    <Content Include="js\jquery.scrollUp.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\script.js" />
+    <Content Include="js\stellar.js" />
+    <Content Include="SportsEvents.aspx" />
+    <Content Include="UserDetails.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountInformation.aspx.designer.vb">
+      <DependentUpon>AccountInformation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccountInformation.aspx.vb">
+      <DependentUpon>AccountInformation.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Book.aspx.designer.vb">
+      <DependentUpon>Book.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Book.aspx.vb">
+      <DependentUpon>Book.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Explore.aspx.designer.vb">
+      <DependentUpon>Explore.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Explore.aspx.vb">
+      <DependentUpon>Explore.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FindBuddy.aspx.designer.vb">
+      <DependentUpon>FindBuddy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FindBuddy.aspx.vb">
+      <DependentUpon>FindBuddy.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SportsEvents.aspx.designer.vb">
+      <DependentUpon>SportsEvents.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SportsEvents.aspx.vb">
+      <DependentUpon>SportsEvents.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UserDetails.aspx.designer.vb">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserDetails.aspx.vb">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fonts\fontawesome-webfont-.eot" />
+    <None Include="fonts\fontawesome-webfont-v=4.7.0.eot" />
+    <None Include="fonts\fontawesome-webfont-v=4.7.0.ttf" />
+    <None Include="fonts\fontawesome-webfont-v=4.7.0.woff" />
+    <None Include="fonts\fontawesome-webfont-v=4.7.0.woff2" />
+    <None Include="fonts\glyphicons-halflings-regular-.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="fonts\glyphicons-halflings-regular.woff" />
+    <None Include="fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="fonts\icofont-v=1.0.0-beta.eot" />
+    <None Include="fonts\icofont-v=1.0.0-beta.ttf" />
+    <None Include="fonts\icofont-v=1.0.0-beta.woff" />
+    <None Include="fonts\Material-Design-Iconic-Font-v=2.2.0.ttf" />
+    <None Include="fonts\Material-Design-Iconic-Font-v=2.2.0.woff" />
+    <None Include="fonts\Material-Design-Iconic-Font-v=2.2.0.woff2" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53990</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
