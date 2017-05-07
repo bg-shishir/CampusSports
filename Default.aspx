@@ -326,7 +326,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col animated fadeInLeftShort slow delay-250">
                         <div class="irs-courses-img">
-                            <img src="images/courses/1.jpg" alt="">
+                            <img src="images/courses/zumba.png" alt="">
                             <div class="irs-time">
                                 <p><a href="index-layout1.html#">10:00 pm - 4:00 pm</a>
                                 </p>
@@ -334,17 +334,17 @@
                             <div class="irs-courses-img-text">
                                 <ul class="clearfix">
                                     <li>
-                                        <p><i class="zmdi zmdi-calendar-alt"></i> 3 years</p>
+                                        <p><i class="zmdi zmdi-calendar-alt"></i> </p>
                                     </li>
                                     <li class="pull-right">
-                                        <p><i class="zmdi zmdi-money"></i> 290</p>
+                                        <p><i class="zmdi zmdi-money"></i> </p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="irs-courses-content">
                             <h4><a href="course-single.html">Zumba</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
+                            <p>Pretty much the most awesome workout ever. Dance to great music, with great people, and burn a ton of calories without even</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -352,7 +352,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col animated fadeInUpShort slow delay-500">
                         <div class="irs-courses-img">
-                            <img src="images/courses/2.jpg" alt="">
+                            <img src="images/courses/swimming.png" alt="">
                             <div class="irs-time">
                                 <p><a href="index-layout1.html#">10:00 pm - 4:00 pm</a>
                                 </p>
@@ -360,17 +360,17 @@
                             <div class="irs-courses-img-text">
                                 <ul class="clearfix">
                                     <li>
-                                        <p><i class="zmdi zmdi-calendar-alt"></i> 3 years</p>
+                                        <p><i class="zmdi zmdi-calendar-alt"></i> </p>
                                     </li>
                                     <li class="pull-right">
-                                        <p><i class="zmdi zmdi-money"></i> 350</p>
+                                        <p><i class="zmdi zmdi-money"></i> </p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="irs-courses-content">
                             <h4><a href="course-single.html">Swimming</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
+                            <p>Competitive swimming is one of the most popular Olympic sports, with events in butterfly, backstroke, breaststroke, freestyle, and individual</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -378,7 +378,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col animated fadeInRightShort slow delay-250">
                         <div class="irs-courses-img">
-                            <img src="images/courses/3.jpg" alt="">
+                            <img src="images/courses/badminton.png" alt="">
                             <div class="irs-time">
                                 <p><a href="index-layout1.html#">10:00 pm - 4:00 pm</a>
                                 </p>
@@ -386,17 +386,17 @@
                             <div class="irs-courses-img-text">
                                 <ul class="clearfix">
                                     <li>
-                                        <p><i class="zmdi zmdi-calendar-alt"></i> 3 years</p>
+                                        <p><i class="zmdi zmdi-calendar-alt"></i> </p>
                                     </li>
                                     <li class="pull-right">
-                                        <p><i class="zmdi zmdi-money"></i> 320</p>
+                                        <p><i class="zmdi zmdi-money"></i> </p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="irs-courses-content">
                             <h4><a href="course-single.html">Badminton</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
+                            <p>Badminton is a racquet sport played using racquets to hit a shuttlecock across a net.Although it may be played with larger teams, the</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -414,9 +414,9 @@
                     <div class="irs-counter-col">
                         <i class="icofont icofont-users-alt-3"></i>
                         <div class="irs-funfact">
-                            <div class="start-count">52</div>
+                            <div class="start-count"></div>
                             <div class="clearfix"></div>
-                            <h4>teachers</h4>
+                            <h4></h4>
                         </div>
                     </div>
                 </div>
@@ -424,9 +424,9 @@
                     <div class="irs-counter-col">
                         <i class="icofont icofont-education"></i>
                         <div class="irs-funfact">
-                            <div class="start-count">32</div>
+                            <div class="start-count"></div>
                             <div class="clearfix"></div>
-                            <h4>courses</h4>
+                            <h4></h4>
                         </div>
                     </div>
                 </div>
@@ -434,9 +434,9 @@
                     <div class="irs-counter-col">
                         <i class="icofont icofont-group-students"></i>
                         <div class="irs-funfact">
-                            <div class="start-count">2025</div>
+                            <div class="start-count"></div>
                             <div class="clearfix"></div>
-                            <h4>students</h4>
+                            <h4></h4>
                         </div>
                     </div>
                 </div>
@@ -444,9 +444,9 @@
                     <div class="irs-counter-col">
                         <i class="icofont icofont-university"></i>
                         <div class="irs-funfact">
-                            <div class="start-count">36</div>
+                            <div class="start-count"></div>
                             <div class="clearfix"></div>
-                            <h4>EXPERIENCE</h4>
+                            <h4></h4>
                         </div>
                     </div>
                 </div>
@@ -467,7 +467,7 @@
                                 <i class="icofont icofont-education"></i>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur magni voluptatem similique </p>
+                        <p>SRH has a wide collection of events and sports where a large room for the exhibition of pictures...</p>
                     </div>
                 </div>
             </div>
