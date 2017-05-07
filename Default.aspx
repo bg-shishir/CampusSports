@@ -10,7 +10,7 @@
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 
     <!-- Efinance Title -->
-    <title>Education Park - HTML 5 Template</title>
+    <title>SRH Campus Sports - HTML 5 Template</title>
 
     <!-- css file -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -81,68 +81,79 @@
                                             <a href="Default.aspx" >Home</a>
                                         </li>
                                         <li class="dropdown">
-                                        <a href="UserDetails.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">User Details <i class="fa fa-angle-down"></i></a>
+                                        <a href="UserDetails.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Facilities <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu">
-                                                <li><a href="UserDetails.aspx">User Information</a>
+                                                <li><a href="">Cardio & Fitness</a>
                                                 </li>
-                                                <li><a href="UserDetails.aspx">Invite & Earn Credits</a>
+                                                <li><a href="">Sauna & Pool</a>
                                                 </li>
-                                                <li><a href="UserDetails.aspx">User Current Courses</a>
+                                                <li><a href="">Sports</a>
                                                 </li>
-                                                <li><a href="UserDetails.aspx">User Journey</a>
+                                                <li><a href="">Triathlon</a>
+                                                </li>
+                                                <li><a href="">Training</a>
+                                                </li>
+                                                <li><a href="">Children</a>
+                                                </li>
+                                                <li><a href="">Reha Sport</a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="AccountInformation.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account Information <i class="fa fa-angle-down"></i></a>
+                                            <a href="AccountInformation.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Explore <i class="fa fa-angle-down"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="AccountInformation.aspx">Support</a>
+                                                <li><a href="">Courses</a>
                                                 </li>
-                                                <li><a href="AccountInformation.aspx">My Calender</a>
+                                                <li><a href="">Events</a>
+                                                </li>
+                                                <li><a href="">Sports</a>
                                                 </li>           
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="Book.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Book <i class="fa fa-angle-down"></i></a>
+                                            <a href="Book.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Memberships <i class="fa fa-angle-down"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="Book.aspx">Offers</a>
+                                                <li><a href="">Offers</a>
                                                 </li>
-                                                <li><a href="Book.aspx">Equipments Buy</a>
-                                                </li>
-                                                 <li><a href="Book.aspx">Court Buy</a>
-                                                </li>
-                                                 <li><a href="Book.aspx">Members Visibility</a>
+                                                <li><a href="">Costs & Fees</a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="SportsEvents.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sports Events <i class="fa fa-angle-down"></i></a>
+                                            <a href="SportsEvents.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Find Buddy <i class="fa fa-angle-down"></i></a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="SportsEvents.aspx">Tournaments</a>
+                                                <li><a href="SportsEvents.aspx">Look for Buddy</a>
                                                 </li>
-                                                <li><a href="SportsEvents.aspx">Kids Events</a>
+                                                <li><a href="">Contact Buddy</a>
                                                 </li>
-                                                <li><a href="SportsEvents.aspx">Summer Camps</a>
+                                                <li><a href="">Become Buddy</a>
                                                 </li>
-                                                <li><a href="SportsEvents.aspx">Trekk & Marathons</a>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="Explore.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Book <i class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="">Rent Equip</a>
+                                                </li>
+                                                <li><a href="">Courts</a>
+                                                </li>
+                                                <li><a href="">Courses</a>
+                                                </li>
+                                                <li><a href="">Trainers</a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="Explore.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Explore <i class="fa fa-angle-down"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="Explore.aspx">Training Details</a>
-                                                </li>
-                                                <li><a href="Explore.aspx">Favorites</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                        <a href="FindBuddy.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buddies <i class="fa fa-angle-down"></i></a>
+                                        <a href="FindBuddy.aspx" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu">
-                                                <li><a href="FindBuddy.aspx">Find Buddy</a>
+                                                <li><a href="">Hours</a>
                                                 </li>
-                                                <li><a href="FindBuddy.aspx">Acheivements</a>
+                                                <li><a href="">Contact</a>
+                                                </li>
+                                                <li><a href="">Mission</a>
+                                                </li>
+                                                <li><a href="">Services</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -332,7 +343,7 @@
                             </div>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="course-single.html">Computer Science</a></h4>
+                            <h4><a href="course-single.html">Zumba</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
@@ -358,7 +369,7 @@
                             </div>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="course-single.html">medical science</a></h4>
+                            <h4><a href="course-single.html">Swimming</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
@@ -384,7 +395,7 @@
                             </div>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="course-single.html">Geometry Course</a></h4>
+                            <h4><a href="course-single.html">Badminton</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="course-single.html" role="button">read more</a>
                         </div>
