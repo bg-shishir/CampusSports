@@ -567,13 +567,13 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
                     <div class="irs-section-title">
-                        <h2>Our <span>teachers</span></h2>
+                        <h2>Our <span>trainers</span></h2>
                         <div class="irs-title-line">
                             <div class="irs-title-icon">
                                 <i class="icofont icofont-education"></i>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur magni voluptatem similique </p>
+                        <p>Trainer is an individual certified to have a varying degree of knowledge of general fitness involved in exercise prescription and instruction. </p>
                     </div>
                 </div>
             </div>
@@ -584,7 +584,7 @@
                         </a>
                         <div class="irs-teachers-name">
                             <h4><a href="teacher-single.html">Rosi Jqulin</a></h4>
-                            <p>math teacher</p>
+                            <p>Swimming Trainer</p>
                         </div>
                         <div class="irs-teachers-social">
                             <a href="index-layout1.html#"><i class="zmdi zmdi-facebook"></i></a>
@@ -600,7 +600,7 @@
                         </a>
                         <div class="irs-teachers-name">
                             <h4><a href="teacher-single.html">Ross Taylor</a></h4>
-                            <p>english teacher</p>
+                            <p>Gym trainer</p>
                         </div>
                         <div class="irs-teachers-social">
                             <a href="index-layout1.html#"><i class="zmdi zmdi-facebook"></i></a>
@@ -616,7 +616,7 @@
                         </a>
                         <div class="irs-teachers-name">
                             <h4><a href="teacher-single.html">Jessi Taylor</a></h4>
-                            <p>chemistry teacher</p>
+                            <p>Zumba Trainer</p>
                         </div>
                         <div class="irs-teachers-social">
                             <a href="index-layout1.html#"><i class="zmdi zmdi-facebook"></i></a>
@@ -632,7 +632,7 @@
                         </a>
                         <div class="irs-teachers-name">
                             <h4><a href="teacher-single.html">Julio Jesus</a></h4>
-                            <p>history teacher</p>
+                            <p>Sports Trainer</p>
                         </div>
                         <div class="irs-teachers-social">
                             <a href="index-layout1.html#"><i class="zmdi zmdi-facebook"></i></a>
@@ -660,7 +660,7 @@
                                 <div class="irs-comment-icon">
                                     <i class="icofont icofont-quote-right"></i>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore.</p>
+                                <p>Trainer is an individual certified to have a varying degree of knowledge of general fitness involved in exercise prescription and instruction.</p>
                                 <h4>Julio Jesus</h4>
                                 <h5>Principal, ABC UNIVERSITY</h5>
                             </div>
@@ -671,7 +671,7 @@
                                 <div class="irs-comment-icon">
                                     <i class="icofont icofont-quote-right"></i>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore.</p>
+                                <p>Trainer is an individual certified to have a varying degree of knowledge of general fitness involved in exercise prescription and instruction.</p>
                                 <h4>Martin Jons</h4>
                                 <h5>Principal, ABC UNIVERSITY</h5>
                             </div>
@@ -682,7 +682,7 @@
                                 <div class="irs-comment-icon">
                                     <i class="icofont icofont-quote-right"></i>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore.</p>
+                                <p>Trainer is an individual certified to have a varying degree of knowledge of general fitness involved in exercise prescription and instruction.</p>
                                 <h4>Fadrid Jons</h4>
                                 <h5>Principal, ABC UNIVERSITY</h5>
                             </div>
@@ -706,7 +706,7 @@
                                 <i class="icofont icofont-education"></i>
                             </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam est dolorem quaerat harum sequi, nesciunt consequatur magni voluptatem similique </p>
+                        <p>Publish your passions your way. Whether you'd like to share your knowledge, experiences or the latest news experience at SRH Sports Campus.....  </p>
                     </div>
                 </div>
             </div>
@@ -714,12 +714,12 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col irs-blog-col animated fadeInLeftShort slow delay-250">
                         <div class="irs-courses-img">
-                            <img src="images/blog/1.jpg" alt="">
+                            <img src="images/blog/blog1.png" alt="">
                         </div>
                         <div class="irs-info-text">
                             <ul class="clearfix">
                                 <li>
-                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">14 Sep 2017</a>
+                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">14 March 2017</a>
                                     </p>
                                 </li>
                                 <li>
@@ -733,8 +733,8 @@
                             </ul>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="blog-single.html">Our system of education</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua.</p>
+                            <h4><a href="blog-single.html">SRH Sports Campus</a></h4>
+                            <p>Our club offers you a variety of sports and leisure activities, a swimming pool and saunas, a unique opportunity in the region to practice sports.</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="blog-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -742,12 +742,12 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col irs-blog-col animated fadeInUpShort slow delay-500">
                         <div class="irs-courses-img">
-                            <img src="images/blog/2.jpg" alt="">
+                            <img src="images/blog/blog2.png" alt="">
                         </div>
                         <div class="irs-info-text">
                             <ul class="clearfix">
                                 <li>
-                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">14 Sep 2017</a>
+                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">04 April 2017</a>
                                     </p>
                                 </li>
                                 <li>
@@ -761,8 +761,8 @@
                             </ul>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="blog-single.html">Our system of education</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua.</p>
+                            <h4><a href="blog-single.html">SRH Sports Campus</a></h4>
+                            <p>Our club offers you a variety of sports and leisure activities, a swimming pool and saunas, a unique opportunity in the region to practice sports.</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="blog-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -770,12 +770,12 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="irs-courses-col irs-blog-col animated fadeInRightShort slow delay-250">
                         <div class="irs-courses-img">
-                            <img src="images/blog/3.jpg" alt="">
+                            <img src="images/blog/blog3.png" alt="">
                         </div>
                         <div class="irs-info-text">
                             <ul class="clearfix">
                                 <li>
-                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">14 Sep 2017</a>
+                                    <p><i class="icofont icofont-clock-time"></i> <a href="index-layout1.html#">24 April 2017</a>
                                     </p>
                                 </li>
                                 <li>
@@ -789,8 +789,8 @@
                             </ul>
                         </div>
                         <div class="irs-courses-content">
-                            <h4><a href="blog-single.html">Our system of education</a></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua.</p>
+                            <h4><a href="blog-single.html">SRH Sports Campus</a></h4>
+                            <p>Our club offers you a variety of sports and leisure activities, a swimming pool and saunas, a unique opportunity in the region to practice sports.</p>
                             <a class="btn btn-default irs-btn-transparent-two" href="blog-single.html" role="button">read more</a>
                         </div>
                     </div>
@@ -812,7 +812,7 @@
                 <div class="col-md-6 col-sm-6">
                     <div class="irs-newsletter-col">
                         <h2>Subscribe our newsletter</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtin didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Lorem ipsum dolor sit amet</p>
+                        <p>Our club offers you a variety of sports and leisure activities, a swimming pool and saunas, a unique opportunity in the region to practice sports.</p>
                         <form>
                             <div class="input-group">
                                 <input placeholder="Your Email Address" class="form-control" name="search-field" type="text">
